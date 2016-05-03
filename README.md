@@ -59,9 +59,22 @@
 2. The Legend of Zelda - A Link Between Worlds
 3. Donkey Kong Country Returns
 4. Mario Kart 7
-5. 
+5. The Legend of Zelda
+6. The Legend of Zelda - Link's Awakening
+7. Mighty SwitchForce
+8. Woah Dave!
+9. Gunman Clive
+10. Moon Chronicles
+11. SteamWorld Dig - A fistful of dirt
+12. Super Street Fighter IV
+13. My Nintendo Picross The Legend of Zelda Twilight Princess
+14. Retro City Rampage
+15. Shantae and the Pirate's Curse
+16. Rhythm Thief & the Emperor's Treasure
+17. Nano Assault Ex
 
 ###DS Lite
 1. The Legend of Zelda - Spirit Tracks
+2. 
 
 ### Steam

@@ -41,10 +41,25 @@
 7. Donkey Kong - Tropical Freeze
 8. Lego The Hobbit
 9. Darksiders II
+10. The Legend of Zelda - The Minish Cap
+11. Guacamelee 
+12. The Fall
+13. Stealth Inc. 2
+14. SteamWorld Dig
+15. BIT.TRIP Presents...Runner2
+16. Freedom Planet
+17. Affordable Space Adventures
+18. Citizens of Earth
+19. Shantae and The Pirate's Curse
+20. Runbow 
+21. Swords & Soldiers II
 
 ###3DS
 1. The Legend of Zelda - Majora's Mask
 2. The Legend of Zelda - A Link Between Worlds
+3. Donkey Kong Country Returns
+4. Mario Kart 7
+5. 
 
 ###DS Lite
 1. The Legend of Zelda - Spirit Tracks

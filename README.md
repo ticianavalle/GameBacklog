@@ -10,16 +10,42 @@
 6. Assassin's Creed Revelations
 7. LA Noire
 8. Fable The Journey
+9. GRID 2
+10. Saints Row IV
+11. Dead Space
 
-###XOne
+### XOne
 1. Dragon Age Inquisition
 2. Lords of the Fallen
 3. The Witcher 3 - Wild Hunt
 4. Shadow of Mordor
 5. Sunset Overdrive
 6. Ryse Son of Rome
+7. Defense Grid 2
+8. The Wolf Among Us
+9. Ori and the Blind Forest
+10. Sherlock Holmes Crimes & Punishments
+11. Styx
+12. Hand of Fate
+13. ZHEROS
+14. Thief
+15. Max: The Curse of Brotherhood
+16. The Incredible Adventures of Van Helsing
+17. Knight Squad
+18. Pneuma: Breath of Life
+19. The Walking Dead Telltale
+20. The Deer God
+21. How to Survive: Storm Warning Edition
+22. Metal Gear Solid V: Ground Zeroes
+23. So Many Me
+24. Massive Chalice
+25. Castle Storm
+26. Pool Nation FX
+27. Rayman Legends
+28. D4: Dark Dreams Don't Die
+29. 
 
-###Wii
+### Wii
 1. The Legend of Zelda - Skyward Sword
 2. The Legend of Zelda - Twilight Princess
 3. Sonic Unleashed
@@ -32,7 +58,7 @@
 10. Xenoblade Chronicles
 11. Link's Crossbow Training
 
-###WiiU
+### WiiU
 1. Watch Dogs
 2. Mario Kart 8
 3. ZombiU
@@ -55,7 +81,7 @@
 20. Runbow 
 21. Swords & Soldiers II
 
-###3DS
+### 3DS
 1. The Legend of Zelda - Majora's Mask
 2. The Legend of Zelda - A Link Between Worlds
 3. Donkey Kong Country Returns
@@ -74,7 +100,7 @@
 16. Rhythm Thief & the Emperor's Treasure
 17. Nano Assault Ex
 
-###DS Lite
+### DS Lite
 1. The Legend of Zelda - Spirit Tracks
 
 ### Steam

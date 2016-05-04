@@ -75,7 +75,6 @@
 
 ###DS Lite
 1. The Legend of Zelda - Spirit Tracks
-2. 
 
 ### Steam
 1. Fez

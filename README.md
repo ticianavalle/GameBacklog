@@ -43,7 +43,8 @@
 26. Pool Nation FX
 27. Rayman Legends
 28. D4: Dark Dreams Don't Die
-29. 
+29. Volgar the Viking
+30. Worms Battleground
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword

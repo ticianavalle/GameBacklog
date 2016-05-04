@@ -13,6 +13,45 @@
 9. GRID 2
 10. Saints Row IV
 11. Dead Space
+12. Borderlands
+13. Supreme Commander 2
+14. Gears of War 2
+15. Sacred Citadel
+16. Deus Ex Human Revolution
+17. Operation Flashpoint: Dragon Rising
+18. Sacred 3
+19. Castlestorm
+20. Joy Rode Turbo
+21. Kingdoms of Amalur Reckoning
+22. Crysis 3
+23. Battlestations Pacific
+24. Metro: Last Light
+25. Metro 2033
+26. Gears of War 3
+27. Plants Vs Zombies
+28. Thief
+29. Just Cause 2
+30. F1 2013
+31. Mafia II
+32. Army of TWO The Devil's Cartel
+33. Assassin's Creed IV
+34. Terraria
+35. Gears of War: Judgement
+36. BioShock Infinite
+37. Sniper Elite V2
+38. MX vs ATV Alive
+39. SSX
+40. The Raven: Legacy of a Master Thief Episode 1
+41. Red Faction: Guerrilla
+42. Viva Piñata: TIP
+43. Darksiders II
+44. Battlefield: Bad Co. 2
+45. Halo: Reach
+46. Dishonored
+47. Motocross Madness
+48. BattleBlock Theater
+49. Perfect Dark Zero
+50. Dark Souls
 
 ### XOne
 1. Dragon Age Inquisition
@@ -39,12 +78,13 @@
 22. Metal Gear Solid V: Ground Zeroes
 23. So Many Me
 24. Massive Chalice
-25. Castle Storm
+25. Castlestorm
 26. Pool Nation FX
 27. Rayman Legends
 28. D4: Dark Dreams Don't Die
 29. Volgar the Viking
 30. Worms Battleground
+31. Assassin's Creed IV
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword

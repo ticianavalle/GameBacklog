@@ -30,6 +30,7 @@
 8. New Super Mario Bros
 9. Lost in Shadow
 10. Xenoblade Chronicles
+11. Link's Crossbow Training
 
 ###WiiU
 1. Watch Dogs

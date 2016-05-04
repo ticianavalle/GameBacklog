@@ -38,7 +38,7 @@
 3. ZombiU
 4. New Super Mario Bros U
 5. Super Mario 3D World
-6. The Legend of Zelda - Windwaker
+6. The Legend of Zelda - WindWaker
 7. Donkey Kong - Tropical Freeze
 8. Lego The Hobbit
 9. Darksiders II

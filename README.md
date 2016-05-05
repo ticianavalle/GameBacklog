@@ -85,6 +85,7 @@
 29. Volgar the Viking
 30. Worms Battleground
 31. Assassin's Creed IV
+32. Tomb Raider Definitive Edition
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword
@@ -218,15 +219,14 @@
 37. The lord of The rings - war in The north
 38. The Testament of Sherlock Holmes
 39. The Vanishing of Ethan Carter Redux
-40. Tomb Raider
-41. Tomb Raider: The Angel of Darkness
-42. Tomb Raider: Anniversary 
-43. Tomb Raider: Chronicles 
-44. Tomb Raider: Legend
-45. Tomb Raider: The Last Revelation 
-46. Tomb Raider: Underworld
-47. Tomb Raider I
-48. Tomb Raider II
-49. Tomb Raider III: Adventures of Lara Croft
-50. Valkyria Chronicles 
-51. Viking: Battle of Asgard
+40. Tomb Raider: The Angel of Darkness
+41. Tomb Raider: Anniversary 
+42. Tomb Raider: Chronicles 
+43. Tomb Raider: Legend
+44. Tomb Raider: The Last Revelation 
+45. Tomb Raider: Underworld
+46. Tomb Raider I
+47. Tomb Raider II
+48. Tomb Raider III: Adventures of Lara Croft
+49. Valkyria Chronicles 
+50. Viking: Battle of Asgard

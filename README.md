@@ -62,7 +62,7 @@
 6. Ryse Son of Rome
 7. Defense Grid 2
 8. The Wolf Among Us
-9. Ori and the Blind Forest
+9. Ori and the Blind Forest Definitive Edition
 10. Sherlock Holmes Crimes & Punishments
 11. Styx
 12. Hand of Fate

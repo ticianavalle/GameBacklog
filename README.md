@@ -143,6 +143,40 @@
 
 ### DS Lite
 1. The Legend of Zelda - Spirit Tracks
+2. Chibi-Robo - Park Patrol*
+3. Chrono Trigger*
+4. Okamiden*
+5. 999 9 hours, 9 persons, 9 doors*
+6. The ABC Murders*
+7. Assassin's Creed II - Discovery*
+8. Assassin's Creed Altairs Chronicles*
+9. Castlevania Dawn of Sorrow*
+10. Castlevania Portrait of Ruin*
+11. Castlevania Order of Ecclesia*
+12. Dragon Quest IX Sentinels of th Starry Skies*
+13. Final Fantasy Crystal Chronicles - Echoes of Time*
+14. Fire Emblem - Shadow Dragon*
+15. Golden Sun - Dark Dawn*
+16. Kirby Canvas Curse*
+17. Tomb Raider Legend*
+18. Mario & Luigi Partners in Time*
+19. Metroid Prime Hunters*
+20. Phoenix Wright - Ace Attorney - Legacy*
+21. Phoenix Wright - Ace Attorney - Trials and Tribulations*
+22. Phoenix Wright - Ace Attorney - Justice for All*
+23. Prince of Persia The Fallen King*
+24. Professor Layton and the Curious Village* 
+25. Professor Layton and the Diabolical Box*
+26. Professor Layton and the Last Specter*
+27. Professor Layton and the Unwound Future*
+28. Rayman DS*
+29. Sonic Chronicles Dark Brotherhood*
+30. Sonic Colors*
+31. Sonic Rush Adventure*
+32. Super Mario 64*
+33. Super Princess Peach*
+34. The Amazing Spiderman*
+35. The World Ends With You*
 
 ### Steam
 1. Fez

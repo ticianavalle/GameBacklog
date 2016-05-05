@@ -21,7 +21,7 @@
 17. Operation Flashpoint: Dragon Rising
 18. Sacred 3
 19. Castlestorm
-20. Joy Rode Turbo
+20. Joy Ride Turbo
 21. Kingdoms of Amalur Reckoning
 22. Crysis 3
 23. Battlestations Pacific

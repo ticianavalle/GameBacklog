@@ -9,49 +9,39 @@
 5. Assassin's Creed Brotherhood
 6. Assassin's Creed Revelations
 7. LA Noire
-8. Fable The Journey
-9. GRID 2
-10. Saints Row IV
-11. Dead Space
-12. Borderlands
-13. Supreme Commander 2
-14. Gears of War 2
-15. Sacred Citadel
-16. Deus Ex Human Revolution
-17. Operation Flashpoint: Dragon Rising
-18. Sacred 3
-19. Castlestorm
-20. Joy Ride Turbo
-21. Kingdoms of Amalur Reckoning
-22. Crysis 3
-23. Battlestations Pacific
-24. Metro: Last Light
-25. Metro 2033
-26. Gears of War 3
-27. Plants Vs Zombies
-28. Thief
-29. Just Cause 2
-30. F1 2013
-31. Mafia II
-32. Army of TWO The Devil's Cartel
-33. Assassin's Creed IV
-34. Terraria
-35. Gears of War: Judgement
-36. BioShock Infinite
-37. Sniper Elite V2
-38. MX vs ATV Alive
-39. SSX
-40. The Raven: Legacy of a Master Thief Episode 1
-41. Red Faction: Guerrilla
-42. Viva Piñata: TIP
-43. Darksiders II
-44. Battlefield: Bad Co. 2
-45. Halo: Reach
-46. Dishonored
-47. Motocross Madness
-48. BattleBlock Theater
-49. Perfect Dark Zero
-50. Dark Souls
+8. Saints Row IV
+9. Dead Space
+10. Borderlands
+11. Gears of War 2
+12. Sacred Citadel
+13. Deus Ex Human Revolution
+14. Operation Flashpoint: Dragon Rising
+15. Sacred 3
+16. Castlestorm
+17. Kingdoms of Amalur Reckoning
+18. Crysis 3
+19. Metro: Last Light
+20. Metro 2033
+21. Gears of War 3
+22. Plants Vs Zombies
+23. Thief
+24. Just Cause 2
+25. Mafia II
+26. Army of TWO The Devil's Cartel
+27. Terraria
+28. Gears of War: Judgement
+29. BioShock Infinite
+30. Sniper Elite V2
+31. The Raven: Legacy of a Master Thief Episode 1
+32. Red Faction: Guerrilla
+33. Viva Piñata: TIP
+34. Battlefield: Bad Co. 2
+35. Halo: Reach
+36. Dishonored
+37. BattleBlock Theater
+38. Perfect Dark Zero
+39. Dark Souls
+40. Peggle
 
 ### XOne
 1. Dragon Age Inquisition
@@ -60,7 +50,7 @@
 4. Shadow of Mordor
 5. Sunset Overdrive
 6. Ryse Son of Rome
-7. Defense Grid 2
+7. Defense Grid 2 
 8. The Wolf Among Us
 9. Ori and the Blind Forest Definitive Edition
 10. Sherlock Holmes Crimes & Punishments
@@ -86,6 +76,7 @@
 30. Worms Battleground
 31. Assassin's Creed IV
 32. Tomb Raider Definitive Edition
+33. Costume Quest 2
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword

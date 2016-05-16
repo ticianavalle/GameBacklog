@@ -101,8 +101,7 @@
 11. Link's Crossbow Training
 
 ### WiiU
-1. Watch Dogs
-2. Mario Kart 8
+1. Mario Kart 8
 3. ZombiU
 4. New Super Mario Bros U
 5. Super Mario 3D World

@@ -102,25 +102,25 @@
 
 ### WiiU
 1. Mario Kart 8
-3. ZombiU
-4. New Super Mario Bros U
-5. Super Mario 3D World
-6. The Legend of Zelda - WindWaker
-7. Donkey Kong - Tropical Freeze
-8. Lego The Hobbit
-9. Darksiders II
-10. The Legend of Zelda - The Minish Cap
-11. Guacamelee 
-12. The Fall
-13. Stealth Inc. 2
-14. SteamWorld Dig
-15. BIT.TRIP Presents...Runner2
-16. Freedom Planet
-17. Affordable Space Adventures
-18. Citizens of Earth
-19. Shantae and The Pirate's Curse
-20. Runbow 
-21. Swords & Soldiers II
+2. ZombiU
+3. New Super Mario Bros U
+4. Super Mario 3D World
+5. The Legend of Zelda - WindWaker
+6. Donkey Kong - Tropical Freeze
+7. Lego The Hobbit
+8. Darksiders II
+9. The Legend of Zelda - The Minish Cap
+10. Guacamelee 
+11. The Fall
+12. Stealth Inc. 2
+13. SteamWorld Dig
+14. BIT.TRIP Presents...Runner2
+15. Freedom Planet
+16. Affordable Space Adventures
+17. Citizens of Earth
+18. Shantae and The Pirate's Curse
+19. Runbow 
+20. Swords & Soldiers II
 
 ### 3DS
 1. The Legend of Zelda - Majora's Mask

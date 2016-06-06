@@ -50,32 +50,31 @@
 4. Shadow of Mordor
 5. Sunset Overdrive
 6. Defense Grid 2 
-7. The Wolf Among Us
-8. Ori and the Blind Forest Definitive Edition
-9. Sherlock Holmes Crimes & Punishments
-10. Styx
-11. Hand of Fate
-12. ZHEROS
-13. Thief
-14. Max: The Curse of Brotherhood
-15. The Incredible Adventures of Van Helsing
-16. Knight Squad
-17. Pneuma: Breath of Life
-18. The Walking Dead Telltale
-19. The Deer God
-20. How to Survive: Storm Warning Edition
-21. Metal Gear Solid V: Ground Zeroes
-22. So Many Me
-23. Massive Chalice
-24. Castlestorm
-25. Pool Nation FX
-26. Rayman Legends
-27. D4: Dark Dreams Don't Die
-28. Volgar the Viking
-29. Worms Battleground
-30. Assassin's Creed IV
-31. Tomb Raider Definitive Edition
-32. Costume Quest 2
+7. Ori and the Blind Forest Definitive Edition *playing
+8. Sherlock Holmes Crimes & Punishments
+9. Styx
+10. Hand of Fate
+11. ZHEROS
+12. Thief
+13. Max: The Curse of Brotherhood
+14. The Incredible Adventures of Van Helsing
+15. Knight Squad
+16. Pneuma: Breath of Life
+17. The Walking Dead Telltale
+18. The Deer God
+19. How to Survive: Storm Warning Edition
+20. Metal Gear Solid V: Ground Zeroes
+21. So Many Me
+22. Massive Chalice
+23. Castlestorm
+24. Pool Nation FX
+25. Rayman Legends
+26. D4: Dark Dreams Don't Die
+27. Volgar the Viking
+28. Worms Battleground
+29. Assassin's Creed IV
+30. Tomb Raider Definitive Edition
+31. Costume Quest 2
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword

@@ -46,35 +46,34 @@
 ### XOne
 1. Dragon Age Inquisition
 2. Lords of the Fallen
-3. The Witcher 3 - Wild Hunt
+3. The Witcher 3 - Wild Hunt *playing
 4. Shadow of Mordor
 5. Sunset Overdrive
 6. Defense Grid 2 
-7. Ori and the Blind Forest Definitive Edition *playing
-8. Sherlock Holmes Crimes & Punishments
-9. Styx
-10. Hand of Fate
-11. ZHEROS
-12. Thief
-13. Max: The Curse of Brotherhood
-14. The Incredible Adventures of Van Helsing
-15. Knight Squad
-16. Pneuma: Breath of Life
-17. The Walking Dead Telltale
-18. The Deer God
-19. How to Survive: Storm Warning Edition
-20. Metal Gear Solid V: Ground Zeroes
-21. So Many Me
-22. Massive Chalice
-23. Castlestorm
-24. Pool Nation FX
-25. Rayman Legends
-26. D4: Dark Dreams Don't Die
-27. Volgar the Viking
-28. Worms Battleground
-29. Assassin's Creed IV
-30. Tomb Raider Definitive Edition
-31. Costume Quest 2
+7. Sherlock Holmes Crimes & Punishments
+8. Styx
+9. Hand of Fate
+10. ZHEROS
+11. Thief
+12. Max: The Curse of Brotherhood
+13. The Incredible Adventures of Van Helsing
+14. Knight Squad
+15. Pneuma: Breath of Life
+16. The Walking Dead Telltale
+17. The Deer God
+18. How to Survive: Storm Warning Edition
+19. Metal Gear Solid V: Ground Zeroes
+20. So Many Me
+21. Massive Chalice
+22. Castlestorm
+23. Pool Nation FX
+24. Rayman Legends
+25. D4: Dark Dreams Don't Die
+26. Volgar the Viking
+27. Worms Battleground
+28. Assassin's Creed IV
+29. Tomb Raider Definitive Edition
+30. Costume Quest 2
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword

@@ -4,7 +4,7 @@
 ### Xbox360
 1. Alan Wake
 2. Red Dead Redemption
-3. Assassin's Creed
+3. Assassin's Creed * playing
 4. Assassin's Creed II
 5. Assassin's Creed Brotherhood
 6. Assassin's Creed Revelations
@@ -42,39 +42,65 @@
 38. Perfect Dark Zero
 39. Dark Souls
 40. Peggle
+41. Super Meat Boy
+42. XCOM®: Enemy Unknown
+43. TC's RainbowSix Vegas2
+44. Tron: Evolution
+45. Spelunky
+46. Beyond Good & Evil HD
+47. Forza Horizon
+48. Mirror's Edge™
+49. MX vs ATV Reflex
+50. I Am Alive™
+51. Monkey Island: SE
+52. Far Cry® 3 Blood Dragon
+
 
 ### XOne
 1. Dragon Age Inquisition
 2. Lords of the Fallen
-3. The Witcher 3 - Wild Hunt *playing
-4. Shadow of Mordor
-5. Sunset Overdrive
-6. Defense Grid 2 
-7. Sherlock Holmes Crimes & Punishments
-8. Styx
-9. Hand of Fate
-10. ZHEROS
-11. Thief
-12. Max: The Curse of Brotherhood
-13. The Incredible Adventures of Van Helsing
-14. Knight Squad
-15. Pneuma: Breath of Life
-16. The Walking Dead Telltale
-17. The Deer God
-18. How to Survive: Storm Warning Edition
-19. Metal Gear Solid V: Ground Zeroes
-20. So Many Me
-21. Massive Chalice
-22. Castlestorm
-23. Pool Nation FX
-24. Rayman Legends
-25. D4: Dark Dreams Don't Die
-26. Volgar the Viking
-27. Worms Battleground
-28. Assassin's Creed IV
-29. Tomb Raider Definitive Edition
-30. Costume Quest 2
-31. Unravel *playing
+3. Sunset Overdrive
+4. Defense Grid 2 
+5. Sherlock Holmes Crimes & Punishments
+6. Styx
+7. Hand of Fate
+8. ZHEROS
+9. Thief
+10. Max: The Curse of Brotherhood
+11. The Incredible Adventures of Van Helsing
+12. Knight Squad
+13. Pneuma: Breath of Life
+14. The Walking Dead Telltale
+15. The Deer God
+16. How to Survive: Storm Warning Edition
+17. Metal Gear Solid V: Ground Zeroes
+18. So Many Me
+19. Massive Chalice
+20. Castlestorm
+21. Pool Nation FX
+22. Rayman Legends
+23. D4: Dark Dreams Don't Die
+24. Volgar the Viking
+25. Worms Battleground
+26. Assassin's Creed IV
+27. Tomb Raider Definitive Edition
+28. Costume Quest 2
+29. Unravel *playing
+30. Murdered: Soul Suspect
+31. Ben-Hur
+32. WARRIORS OROCHI 3 Ultimate
+33. Super Mega Baseball: Extra Innings
+34. Earthlock: Festival of Magic
+35. Assassin's Creed® Chronicles: China
+36. Super Dungeon Bros
+37. The Escapists
+38. Minecraft: Story Mode - Episode 1: The Order of the Stone
+49. Batman - The Telltale Series - Episode 1: Realm of Shadows
+40. The Banner Saga 2
+41. Goat Simulator
+42. The Walking Dead: The Complete First Season
+43. Tumblestone
+
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword
@@ -131,7 +157,7 @@
 17. Nano Assault Ex
 
 ### DS Lite
-1. The Legend of Zelda - Spirit Tracks
+1. The Legend of Zelda - Spirit Tracks *playing
 2. Chibi-Robo - Park Patrol*
 3. Chrono Trigger*
 4. Okamiden*
@@ -154,7 +180,7 @@
 21. Phoenix Wright - Ace Attorney - Trials and Tribulations*
 22. Phoenix Wright - Ace Attorney - Justice for All*
 23. Prince of Persia The Fallen King*
-24. Professor Layton and the Curious Village* 
+24. Professor Layton and the Curious Village *playing
 25. Professor Layton and the Diabolical Box*
 26. Professor Layton and the Last Specter*
 27. Professor Layton and the Unwound Future*

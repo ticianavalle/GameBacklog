@@ -114,6 +114,8 @@
 9. Lost in Shadow
 10. Xenoblade Chronicles
 11. Link's Crossbow Training
+12. Just Dance 2
+13. Just Dance 4
 
 ### WiiU
 1. Mario Kart 8
@@ -136,6 +138,10 @@
 18. Shantae and The Pirate's Curse
 19. Runbow 
 20. Swords & Soldiers II
+21. Nintendoland
+22. Just Dance 2014
+23. Just Dance 2015
+24. Just Dance 2016
 
 ### 3DS
 1. The Legend of Zelda - Majora's Mask

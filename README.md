@@ -1,11 +1,9 @@
 # GameBacklog
-## Game Backlog 2016
+## Game Backlog 2017
 
 ### Xbox360
 1. Alan Wake
 2. Red Dead Redemption
-3. Assassin's Creed * playing
-4. Assassin's Creed II
 5. Assassin's Creed Brotherhood
 6. Assassin's Creed Revelations
 7. LA Noire

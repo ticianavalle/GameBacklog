@@ -2,8 +2,8 @@
 ## Game Backlog 2017
 
 ### Xbox360
-1. Alan Wake
-2. Red Dead Redemption
+1. Far Cry® 3 Blood Dragon
+2. Red Dead Redemption - playing
 5. Assassin's Creed Brotherhood
 6. Assassin's Creed Revelations
 7. LA Noire
@@ -51,7 +51,6 @@
 49. MX vs ATV Reflex
 50. I Am Alive™
 51. Monkey Island: SE
-52. Far Cry® 3 Blood Dragon
 
 
 ### XOne
@@ -102,7 +101,7 @@
 
 ### Wii
 1. The Legend of Zelda - Skyward Sword
-2. The Legend of Zelda - Twilight Princess
+2. The Legend of Zelda - Twilight Princess - playing
 3. Sonic Unleashed
 4. Lego Batman
 5. Lego Star Wars
@@ -161,7 +160,7 @@
 17. Nano Assault Ex
 
 ### DS Lite
-1. The Legend of Zelda - Spirit Tracks *playing
+1. The World Ends With You*
 2. Chibi-Robo - Park Patrol*
 3. Chrono Trigger*
 4. Okamiden*
@@ -195,7 +194,6 @@
 32. Super Mario 64*
 33. Super Princess Peach*
 34. The Amazing Spiderman*
-35. The World Ends With You*
 
 ### Steam
 1. Fez

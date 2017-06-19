@@ -113,11 +113,10 @@
 6. Lego Pirates of the Caribbean
 7. Prince of Persia Forgotten Sands
 8. New Super Mario Bros
-9. Lost in Shadow
-10. Xenoblade Chronicles
-11. Link's Crossbow Training
-12. Just Dance 2
-13. Just Dance 4
+9. Xenoblade Chronicles
+10. Link's Crossbow Training
+11. Just Dance 2
+12. Just Dance 4
 
 
 ### WiiU

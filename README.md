@@ -51,7 +51,9 @@
 49. MX vs ATV Reflex
 50. I Am Alive™
 51. Monkey Island: SE
-
+52. Phantom Dust
+53. Lost Odissey
+54. Outland
 
 ### XOne
 1. Dragon Age Inquisition
@@ -97,6 +99,9 @@
 41. Goat Simulator
 42. The Walking Dead: The Complete First Season
 43. Tumblestone
+43. The Final Station
+44. Rare Replay
+45. No time to explain
 
 
 ### Wii

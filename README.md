@@ -114,6 +114,7 @@
 12. Just Dance 2
 13. Just Dance 4
 
+
 ### WiiU
 1. Mario Kart 8
 2. ZombiU
@@ -139,6 +140,9 @@
 22. Just Dance 2014
 23. Just Dance 2015
 24. Just Dance 2016
+25. Bayonetta
+26. Bayonetta 2
+27. The Legend of Zelda - Breath of the Wild *playing
 
 ### 3DS
 1. The Legend of Zelda - Majora's Mask
@@ -158,6 +162,9 @@
 15. Shantae and the Pirate's Curse
 16. Rhythm Thief & the Emperor's Treasure
 17. Nano Assault Ex
+18. Codename STEAM
+19. Chibi Robo Zip Lash
+20. Guitar Hero On Tour
 
 ### DS Lite
 1. The World Ends With You*
